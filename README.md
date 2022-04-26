@@ -3,6 +3,7 @@ Poslední engeto projekt.
 1. Vyberte si na stránce https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ územní úroveň.
 
 2. Klikněte na "X" na řádku vybrané územní úrovně a ve sloupci "Výběr obce".
+
 ![image](https://user-images.githubusercontent.com/96142082/165354014-b7f90c25-e047-4aa2-a5d3-d83808a107b5.png)
 
 3. Zkopírujte odkaz stránky 
@@ -18,6 +19,7 @@ The final engeto project.
 1. On the site https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ choose a desired area.
 
 2. Click on "X" on the same line as the area you want to search and in the column "Výběr obce".
+
 ![image](https://user-images.githubusercontent.com/96142082/165354014-b7f90c25-e047-4aa2-a5d3-d83808a107b5.png)
 
 3. Copy the link to the site
