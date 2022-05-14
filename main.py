@@ -102,5 +102,6 @@ def election_scraper(odkaz = None, vystupni_soubor = None):
         data = ziskat_informace_z_webu(odkaz)
         ulozit_jako_csv(data, vystupni_soubor)
 
+
 if __name__ == "__main__":
     election_scraper(sys.argv[1], sys.argv[2])
