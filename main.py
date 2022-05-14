@@ -102,6 +102,5 @@ def election_scraper(odkaz = None, vystupni_soubor = None):
         data = ziskat_informace_z_webu(odkaz)
         ulozit_jako_csv(data, vystupni_soubor)
 
-#election_scraper("https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=14&xnumnuts=8105", "vysledky_Opava.csv")
 if __name__ == "__main__":
     election_scraper(sys.argv[1], sys.argv[2])
